@@ -9,6 +9,6 @@ String version=resource.getString("version");%>
 <h2>War file  is going to  Deploy    into   amazon EC2  instance using github 
 "Successfully for the first project using  Jenkins and tomcat"
 </h2>
-<h3> First project on Jenkins with cicd pipeline is complted for dec2024 batch with Ansible-playbook concept</h3>
+<h3> First project on Jenkins with cicd pipeline is complted for dec2024 batch with Ansible-playbook concept and Roles playbook</h3>
   </body>
 </html>
